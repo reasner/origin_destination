@@ -1,0 +1,150 @@
+state,cfs,cfs_code
+AL,"Birmingham-Hoover-Cullman, CFS Area",1142
+AL,"Mobile-Daphne-Fairhope, CFS Area",1380
+AL,Remainder of Alabama,199999
+AZ,"Phoenix-Mesa-Scottsdale, CFS Area",438060
+AZ,"Tucson, CFS Area",446060
+AZ,Remainder of Arizona,499999
+AR,Arkansas,599999
+CA,"Los Angeles-Long Beach-Riverside, CFS Area",6348
+CA,"Sacramento--Arden-Arcade--Yuba City, CA-NV, CFS Area (CA part)",6472
+CA,"San Diego-Carlsbad-San Marcos, CFS Area",641740
+CA,"San Jose-San Francisco-Oakland, CFS Area",6488
+CA,Remainder of California,699999
+CO,"Denver-Aurora-Boulder, CFS Area",8216
+CO,Remainder of Colorado,899999
+CT,"Hartford-West Hartford-Willimantic, CFS Area",9278
+CT,"New York-Newark-Bridgeport, NY-NJ-CT-PA, CFS Area (CT part)",9408
+CT,Remainder of Connecticut,999999
+DE,Delaware,1099999
+DC,"Washington-Arlington-Alexandria, DC-VA-MD-WV, CFS Area (DC part)",1147900
+FL,"Jacksonville, CFS Area",1227260
+FL,"Miami-Fort Lauderdale-Pompano Beach, CFS Area",1233100
+FL,"Orlando-Deltona-Daytona Beach, CFS Area",12422
+FL,"Tampa-St. Petersburg-Clearwater, CFS Area",1245300
+FL,Remainder of Florida,1299999
+GA,"Atlanta-Sandy Springs-Gainesville, GA-AL, CFS Area (GA part)",13122
+GA,"Savannah-Hinesville-Fort Stewart, CFS Area",13496
+GA,Remainder of Georgia,1399999
+ID,Idaho,1699999
+IL,"Chicago-Naperville-Michigan City, IL-IN-WI, CFS Area (IL part)",17176
+IL,"St. Louis-St. Charles-Farmington, MO-IL, CFS Area (IL part)",17476
+IL,Remainder of Illinois,1799999
+IN,"Chicago-Naperville-Michigan City, IL-IN-WI, CFS Area (IN part)",18176
+IN,"Indianapolis-Anderson-Columbus, CFS Area",18294
+IN,Remainder of Indiana,1899999
+IA,Iowa,1999999
+KS,"Kansas City-Overland Park-Kansas City, MO-KS, CFS Area (KS part)",20312
+KS,Remainder of Kansas,2099999
+KY,"Louisville/Jefferson County-Elizabethtown-Scottsburg, KY-IN, CFS Area (KY part)",21350
+KY,Remainder of Kentucky,2199999
+LA,"Baton Rouge-Pierre Part, CFS Area",22132
+LA,"Lake Charles-Jennings, CFS Area",22324
+LA,"New Orleans-Metairie-Bogalusa, CFS Area",22406
+LA,Remainder of Louisiana,2299999
+ME,Maine,2399999
+MD,"Baltimore-Towson, CFS Area",2412580
+MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV, CFS Area (MD part)",2447900
+MD,Remainder of Maryland,2499999
+MA,"Boston-Worcester-Manchester, MA-RI-NH, CFS Area (MA part)",25148
+MA,Remainder of Massachusetts,2599999
+MI,"Detroit-Warren-Flint, CFS Area",26220
+MI,"Grand Rapids-Muskegon-Holland, CFS Area",26266
+MI,Remainder of Michigan,2699999
+MN,"Minneapolis-St. Paul-St. Cloud, MN-WI, CFS Area (MN part)",27378
+MN,Remainder of Minnesota,2799999
+MS,Mississippi,2899999
+MO,"Kansas City-Overland Park-Kansas City, MO-KS, CFS Area (MO part)",29312
+MO,"St. Louis-St. Charles-Farmington, MO-IL, CFS Area (MO part)",29476
+MO,Remainder of Missouri,2999999
+MT,Montana,3099999
+NE,Nebraska,3199999
+NV,"Las Vegas-Paradise-Pahrump, CFS Area",32332
+NV,Remainder of Nevada,3299999
+NH,New Hampshire,3399999
+NJ,"New York-Newark-Bridgeport, NY-NJ-CT-PA, CFS Area (NJ part)",34408
+NJ,"Philadelphia-Camden-Vineland, PA-NJ-DE-MD, CFS Area (NJ part)",34428
+NJ,Remainder of New Jersey,3499999
+NM,New Mexico,3599999
+NY,"Albany-Schenectady-Amsterdam, CFS Area",36104
+NY,"Buffalo-Niagara-Cattaraugus, CFS Area",36160
+NY,"New York-Newark-Bridgeport, NY-NJ-CT-PA, CFS Area (NY part)",36408
+NY,"Rochester-Batavia-Seneca Falls, CFS Area",36464
+NY,Remainder of New York,3699999
+NC,"Charlotte-Gastonia-Salisbury, NC-SC, CFS Area (NC part)",37172
+NC,"Greensboro--Winston-Salem--High Point, CFS Area",37268
+NC,"Raleigh-Durham-Cary, CFS Area",37450
+NC,Remainder of North Carolina,3799999
+ND,North Dakota,3899999
+OH,"Cincinnati-Middletown-Wilmington, OH-KY-IN, CFS Area (OH part)",39178
+OH,"Cleveland-Akron-Elyria, CFS Area",39184
+OH,"Columbus-Marion-Chillicothe, CFS Area",39198
+OH,"Dayton-Springfield-Greenville, CFS Area",39212
+OH,Remainder of Ohio,3999999
+OK,"Oklahoma City-Shawnee, CFS Area",40416
+OK,"Tulsa-Bartlesville, CFS Area",40538
+OK,Remainder of Oklahoma,4099999
+OR,"Portland-Vancouver-Beaverton, OR-WA, CFS Area (OR part)",4138900
+OR,Remainder of Oregon,4199999
+PA,"Philadelphia-Camden-Vineland, PA-NJ-DE-MD, CFS Area (PA part)",42428
+PA,"Pittsburgh-New Castle, CFS Area",42430
+PA,Remainder of Pennsylvania,4299999
+RI,"Boston-Worcester-Manchester, MA-RI-NH, CFS Area (RI part)",4439300
+SC,"Charleston-North Charleston, CFS Area",4516700
+SC,"Greenville-Spartanburg-Anderson, CFS Area",45273
+SC,Remainder of South Carolina,4599999
+SD,South Dakota,4699999
+TN,"Memphis, TN-MS-AR, CFS Area (TN part)",4732820
+TN,"Nashville-Davidson--Murfreesboro--Columbia, CFS Area",47400
+TN,Remainder of Tennessee,4799999
+TX,"Austin-Round Rock, CFS Area",4812420
+TX,"Beaumont-Port Arthur, CFS Area",4813140
+TX,"Corpus Christi-Kingsville, CFS Area",48204
+TX,"Dallas-Fort Worth, CFS Area",48206
+TX,"El Paso, CFS Area",4821340
+TX,"Houston-Baytown-Huntsville, CFS Area",48288
+TX,"Laredo, CFS Area",4829700
+TX,"San Antonio, CFS Area",4841700
+TX,Remainder of Texas,4899999
+UT,"Salt Lake City-Ogden-Clearfield, CFS Area",49482
+UT,Remainder of Utah,4999999
+VT,Vermont,5099999
+VA,"Richmond, CFS Area",5140060
+VA,"Virginia Beach-Norfolk-Newport News, VA-NC, CFS Area (VA part)",5147260
+VA,"Washington-Baltimore-Northern Virginia, DC-MD-VA-WV, CFS Area (VA part)",51548
+VA,Remainder of Virginia,5199999
+WA,"Seattle-Tacoma-Olympia, CFS Area",53500
+WA,Remainder of Washington,5399999
+WV,West Virginia,5499999
+WI,"Milwaukee-Racine-Waukesha, CFS Area",55376
+WI,Remainder of Wisconsin,5599999
+WY,Wyoming,5699999
+CA,"Sacramento--Arden-Arcade--Yuba City, CA-NV, CFS Area (CA Part)",6472
+CT,"New York-Newark-Bridgeport, NY-NJ-CT-PA, CFS Area (CT Part)",9408
+DC,"Washington-Arlington-Alexandria, DC-VA-MD-WV, CFS Area (DC Part)",1147900
+GA,"Atlanta-Sandy Springs-Gainesville, GA-AL, CFS Area (GA Part)",13122
+IL,"Chicago-Naperville-Michigan City, IL-IN-WI, CFS Area (IL Part)",17176
+IL,"St. Louis-St. Charles-Farmington, MO-IL, CFS Area (IL Part)",17476
+IN,"Chicago-Naperville-Michigan City, IL-IN-WI, CFS Area (IN Part)",18176
+KS,"Kansas City-Overland Park-Kansas City, MO-KS, CFS Area (KS Part)",20312
+KY,"Louisville/Jefferson County-Elizabethtown-Scottsburg, KY-IN, CFS Area (KY Part)",21350
+LA,"Baton Rouge-Pierre Part, CFS Area ",22132
+MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV, CFS Area (MD Part)",2447900
+MA,"Boston-Worcester-Manchester, MA-RI-NH, CFS Area (MA Part)",25148
+MN,"Minneapolis-St. Paul-St. Cloud, MN-WI, CFS Area (MN Part)",27378
+MO,"Kansas City-Overland Park-Kansas City, MO-KS, CFS Area (MO Part)",29312
+MO,"St. Louis-St. Charles-Farmington, MO-IL, CFS Area (MO Part)",29476
+NJ,"New York-Newark-Bridgeport, NY-NJ-CT-PA, CFS Area (NJ Part)",34408
+NJ,"Philadelphia-Camden-Vineland, PA-NJ-DE-MD, CFS Area (NJ Part)",34428
+NY,"New York-Newark-Bridgeport, NY-NJ-CT-PA, CFS Area (NY Part)",36408
+NY,"Rochester-Batavia-Seneca Falls, CFS Area ",36464
+NC,"Charlotte-Gastonia-Salisbury, NC-SC, CFS Area (NC Part)",37172
+OH,"Cincinnati-Middletown-Wilmington, OH-KY-IN, CFS Area (OH Part)",39178
+OH,"Dayton-Springfield-Greenville, CFS Area ",39212
+OR,"Portland-Vancouver-Beaverton, OR-WA, CFS Area (OR Part)",4138900
+PA,"Philadelphia-Camden-Vineland, PA-NJ-DE-MD, CFS Area (PA Part)",42428
+RI,"Boston-Worcester-Manchester, MA-RI-NH, CFS Area (RI Part)",4439300
+TN,"Memphis, TN-MS-AR, CFS Area (TN Part)",4732820
+TX,"San Antonio, CFS Area ",4841700
+VA,"Virginia Beach-Norfolk-Newport News, VA-NC, CFS Area (VA Part)",5147260
+VA,"Washington-Baltimore-Northern Virginia, DC-MD-VA-WV, CFS Area (VA Part)",51548

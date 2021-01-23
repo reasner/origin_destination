@@ -1,0 +1,150 @@
+state,cfs
+AL,"Birmingham-Hoover-Cullman, CFS Area"
+AL,"Mobile-Daphne-Fairhope, CFS Area"
+AL,Remainder of Alabama
+AZ,"Phoenix-Mesa-Scottsdale, CFS Area"
+AZ,"Tucson, CFS Area"
+AZ,Remainder of Arizona
+AR,Arkansas
+CA,"Los Angeles-Long Beach-Riverside, CFS Area"
+CA,"Sacramento--Arden-Arcade--Yuba City, CA-NV, CFS Area (CA part)"
+CA,"San Diego-Carlsbad-San Marcos, CFS Area"
+CA,"San Jose-San Francisco-Oakland, CFS Area"
+CA,Remainder of California
+CO,"Denver-Aurora-Boulder, CFS Area"
+CO,Remainder of Colorado
+CT,"Hartford-West Hartford-Willimantic, CFS Area"
+CT,"New York-Newark-Bridgeport, NY-NJ-CT-PA, CFS Area (CT part)"
+CT,Remainder of Connecticut
+DE,Delaware
+DC,"Washington-Arlington-Alexandria, DC-VA-MD-WV, CFS Area (DC part)"
+FL,"Jacksonville, CFS Area"
+FL,"Miami-Fort Lauderdale-Pompano Beach, CFS Area"
+FL,"Orlando-Deltona-Daytona Beach, CFS Area"
+FL,"Tampa-St. Petersburg-Clearwater, CFS Area"
+FL,Remainder of Florida
+GA,"Atlanta-Sandy Springs-Gainesville, GA-AL, CFS Area (GA part)"
+GA,"Savannah-Hinesville-Fort Stewart, CFS Area"
+GA,Remainder of Georgia
+ID,Idaho
+IL,"Chicago-Naperville-Michigan City, IL-IN-WI, CFS Area (IL part)"
+IL,"St. Louis-St. Charles-Farmington, MO-IL, CFS Area (IL part)"
+IL,Remainder of Illinois
+IN,"Chicago-Naperville-Michigan City, IL-IN-WI, CFS Area (IN part)"
+IN,"Indianapolis-Anderson-Columbus, CFS Area"
+IN,Remainder of Indiana
+IA,Iowa
+KS,"Kansas City-Overland Park-Kansas City, MO-KS, CFS Area (KS part)"
+KS,Remainder of Kansas
+KY,"Louisville/Jefferson County-Elizabethtown-Scottsburg, KY-IN, CFS Area (KY part)"
+KY,Remainder of Kentucky
+LA,"Baton Rouge-Pierre Part, CFS Area"
+LA,"Lake Charles-Jennings, CFS Area"
+LA,"New Orleans-Metairie-Bogalusa, CFS Area"
+LA,Remainder of Louisiana
+ME,Maine
+MD,"Baltimore-Towson, CFS Area"
+MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV, CFS Area (MD part)"
+MD,Remainder of Maryland
+MA,"Boston-Worcester-Manchester, MA-RI-NH, CFS Area (MA part)"
+MA,Remainder of Massachusetts
+MI,"Detroit-Warren-Flint, CFS Area"
+MI,"Grand Rapids-Muskegon-Holland, CFS Area"
+MI,Remainder of Michigan
+MN,"Minneapolis-St. Paul-St. Cloud, MN-WI, CFS Area (MN part)"
+MN,Remainder of Minnesota
+MS,Mississippi
+MO,"Kansas City-Overland Park-Kansas City, MO-KS, CFS Area (MO part)"
+MO,"St. Louis-St. Charles-Farmington, MO-IL, CFS Area (MO part)"
+MO,Remainder of Missouri
+MT,Montana
+NE,Nebraska
+NV,"Las Vegas-Paradise-Pahrump, CFS Area"
+NV,Remainder of Nevada
+NH,New Hampshire
+NJ,"New York-Newark-Bridgeport, NY-NJ-CT-PA, CFS Area (NJ part)"
+NJ,"Philadelphia-Camden-Vineland, PA-NJ-DE-MD, CFS Area (NJ part)"
+NJ,Remainder of New Jersey
+NM,New Mexico
+NY,"Albany-Schenectady-Amsterdam, CFS Area"
+NY,"Buffalo-Niagara-Cattaraugus, CFS Area"
+NY,"New York-Newark-Bridgeport, NY-NJ-CT-PA, CFS Area (NY part)"
+NY,"Rochester-Batavia-Seneca Falls, CFS Area"
+NY,Remainder of New York
+NC,"Charlotte-Gastonia-Salisbury, NC-SC, CFS Area (NC part)"
+NC,"Greensboro--Winston-Salem--High Point, CFS Area"
+NC,"Raleigh-Durham-Cary, CFS Area"
+NC,Remainder of North Carolina
+ND,North Dakota
+OH,"Cincinnati-Middletown-Wilmington, OH-KY-IN, CFS Area (OH part)"
+OH,"Cleveland-Akron-Elyria, CFS Area"
+OH,"Columbus-Marion-Chillicothe, CFS Area"
+OH,"Dayton-Springfield-Greenville, CFS Area"
+OH,Remainder of Ohio
+OK,"Oklahoma City-Shawnee, CFS Area"
+OK,"Tulsa-Bartlesville, CFS Area"
+OK,Remainder of Oklahoma
+OR,"Portland-Vancouver-Beaverton, OR-WA, CFS Area (OR part)"
+OR,Remainder of Oregon
+PA,"Philadelphia-Camden-Vineland, PA-NJ-DE-MD, CFS Area (PA part)"
+PA,"Pittsburgh-New Castle, CFS Area"
+PA,Remainder of Pennsylvania
+RI,"Boston-Worcester-Manchester, MA-RI-NH, CFS Area (RI part)"
+SC,"Charleston-North Charleston, CFS Area"
+SC,"Greenville-Spartanburg-Anderson, CFS Area"
+SC,Remainder of South Carolina
+SD,South Dakota
+TN,"Memphis, TN-MS-AR, CFS Area (TN part)"
+TN,"Nashville-Davidson--Murfreesboro--Columbia, CFS Area"
+TN,Remainder of Tennessee
+TX,"Austin-Round Rock, CFS Area"
+TX,"Beaumont-Port Arthur, CFS Area"
+TX,"Corpus Christi-Kingsville, CFS Area"
+TX,"Dallas-Fort Worth, CFS Area"
+TX,"El Paso, CFS Area"
+TX,"Houston-Baytown-Huntsville, CFS Area"
+TX,"Laredo, CFS Area"
+TX,"San Antonio, CFS Area"
+TX,Remainder of Texas
+UT,"Salt Lake City-Ogden-Clearfield, CFS Area"
+UT,Remainder of Utah
+VT,Vermont
+VA,"Richmond, CFS Area"
+VA,"Virginia Beach-Norfolk-Newport News, VA-NC, CFS Area (VA part)"
+VA,"Washington-Baltimore-Northern Virginia, DC-MD-VA-WV, CFS Area (VA part)"
+VA,Remainder of Virginia
+WA,"Seattle-Tacoma-Olympia, CFS Area"
+WA,Remainder of Washington
+WV,West Virginia
+WI,"Milwaukee-Racine-Waukesha, CFS Area"
+WI,Remainder of Wisconsin
+WY,Wyoming
+CA,"Sacramento--Arden-Arcade--Yuba City, CA-NV, CFS Area (CA Part)"
+CT,"New York-Newark-Bridgeport, NY-NJ-CT-PA, CFS Area (CT Part)"
+DC,"Washington-Arlington-Alexandria, DC-VA-MD-WV, CFS Area (DC Part)"
+GA,"Atlanta-Sandy Springs-Gainesville, GA-AL, CFS Area (GA Part)"
+IL,"Chicago-Naperville-Michigan City, IL-IN-WI, CFS Area (IL Part)"
+IL,"St. Louis-St. Charles-Farmington, MO-IL, CFS Area (IL Part)"
+IN,"Chicago-Naperville-Michigan City, IL-IN-WI, CFS Area (IN Part)"
+KS,"Kansas City-Overland Park-Kansas City, MO-KS, CFS Area (KS Part)"
+KY,"Louisville/Jefferson County-Elizabethtown-Scottsburg, KY-IN, CFS Area (KY Part)"
+LA,"Baton Rouge-Pierre Part, CFS Area "
+MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV, CFS Area (MD Part)"
+MA,"Boston-Worcester-Manchester, MA-RI-NH, CFS Area (MA Part)"
+MN,"Minneapolis-St. Paul-St. Cloud, MN-WI, CFS Area (MN Part)"
+MO,"Kansas City-Overland Park-Kansas City, MO-KS, CFS Area (MO Part)"
+MO,"St. Louis-St. Charles-Farmington, MO-IL, CFS Area (MO Part)"
+NJ,"New York-Newark-Bridgeport, NY-NJ-CT-PA, CFS Area (NJ Part)"
+NJ,"Philadelphia-Camden-Vineland, PA-NJ-DE-MD, CFS Area (NJ Part)"
+NY,"New York-Newark-Bridgeport, NY-NJ-CT-PA, CFS Area (NY Part)"
+NY,"Rochester-Batavia-Seneca Falls, CFS Area "
+NC,"Charlotte-Gastonia-Salisbury, NC-SC, CFS Area (NC Part)"
+OH,"Cincinnati-Middletown-Wilmington, OH-KY-IN, CFS Area (OH Part)"
+OH,"Dayton-Springfield-Greenville, CFS Area "
+OR,"Portland-Vancouver-Beaverton, OR-WA, CFS Area (OR Part)"
+PA,"Philadelphia-Camden-Vineland, PA-NJ-DE-MD, CFS Area (PA Part)"
+RI,"Boston-Worcester-Manchester, MA-RI-NH, CFS Area (RI Part)"
+TN,"Memphis, TN-MS-AR, CFS Area (TN Part)"
+TX,"San Antonio, CFS Area "
+VA,"Virginia Beach-Norfolk-Newport News, VA-NC, CFS Area (VA Part)"
+VA,"Washington-Baltimore-Northern Virginia, DC-MD-VA-WV, CFS Area (VA Part)"
