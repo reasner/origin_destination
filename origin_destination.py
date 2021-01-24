@@ -91,7 +91,9 @@ cfs_code_map['cfs_code'] = cfs_code_map['cfs_code'].apply(str)
 states_w_leading_zero = ['AL','AZ','AR','CA','CO','CT']
 for st in states_w_leading_zero:
     cfs_code_map.loc[(cfs_code_map['state'] == st), 'cfs_code'] = '0' + cfs_code_map['cfs_code']
-#all combinations
+cfs_code_map = cfs_code_map.sort_values(by=['cfs_code'])
+
+#all combinations 
 code_list = cfs_code_map['cfs_code'].unique().tolist()
 all_comb = []
 for code1 in code_list:
@@ -100,6 +102,9 @@ for code1 in code_list:
 comb_df = pd.DataFrame(all_comb)
 comb_df.columns = ['orig_cfs_code','dest_cfs_code']
 comb_df = comb_df[~(comb_df['orig_cfs_code'] == comb_df['dest_cfs_code'])]
+unique_codes_ordered = cfs_code_map['cfs_code']
+unique_codes_ordered = unique_codes_ordered.drop_duplicates()
+unique_codes_ordered.to_csv('unique_codes_ordered.csv',index=False)
 
 #fill in all pairs of trade values
 #bring in codes
@@ -126,8 +131,6 @@ clean_data = clean_data[~(clean_data['orig_cfs_code'] == clean_data['dest_cfs_co
 comb_data = pd.merge(comb_df,clean_data,on=['orig_cfs_code','dest_cfs_code'],how='left')
 comb_data = comb_data.fillna(0)
 comb_data.to_csv('trade_data.csv',index=False)
-
-
 
 
 
